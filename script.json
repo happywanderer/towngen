@@ -1,0 +1,13 @@
+{
+  "name": "towngen",
+  "version": "0.0.1",
+  "description": "Script to randomly generate towns based on geographic location and size",
+  "authors": "Paul S.",
+  "roll20userid": "297250",
+  "dependencies": [],
+  "modifies": [],
+  "conflicts": [],
+  "script": "towngen.js",
+  "useroptions": {},
+  "previousversions": []
+}
